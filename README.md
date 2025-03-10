@@ -23,13 +23,6 @@
 - 📊 **Thinking Process Visualization** - See how the model analyzes search results
 - 🔄 **Conversation History** - Store and retrieve past conversations
 
-## 🖥️ Screenshots
-
-<div align="center">
-  https://github.com/user-attachments/assets/b8d2e092-7f07-47f2-b1bb-23239dfddde6
-
-  <p><i>Chat interface with web search and thinking process visualization</i></p>
-</div>
 
 ## 🚀 Getting Started
 
