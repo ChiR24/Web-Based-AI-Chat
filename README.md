@@ -26,8 +26,9 @@
 ## 🖥️ Screenshots
 
 <div align="center">
-  <p><i>![image](https://github.com/user-attachments/assets/e04ea672-832d-4ec6-ab46-fdfb99c5dc9a)
-Chat interface with web search and thinking process visualization</i></p>
+  ![image](https://github.com/user-attachments/assets/b8d2e092-7f07-47f2-b1bb-23239dfddde6)
+
+  <p><i>Chat interface with web search and thinking process visualization</i></p>
 </div>
 
 ## 🚀 Getting Started
