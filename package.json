@@ -1,7 +1,7 @@
 {
-  "name": "ai-chat-ui",
+  "name": "gemini-ai-chat",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,24 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiR24/Web-Based-AI-Chat.git"
+  },
+  "keywords": [
+    "gemini",
+    "ai",
+    "chat",
+    "google",
+    "react",
+    "typescript"
+  ],
+  "author": "ChiR24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiR24/Web-Based-AI-Chat/issues"
+  },
+  "homepage": "https://github.com/ChiR24/Web-Based-AI-Chat#readme",
   "dependencies": {
     "@google/generative-ai": "^0.24.0",
     "@types/react-syntax-highlighter": "^15.5.7",
