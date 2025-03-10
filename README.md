@@ -26,7 +26,7 @@
 ## 🖥️ Screenshots
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/b8d2e092-7f07-47f2-b1bb-23239dfddde6)
+  [image](https://github.com/user-attachments/assets/b8d2e092-7f07-47f2-b1bb-23239dfddde6)
 
   <p><i>Chat interface with web search and thinking process visualization</i></p>
 </div>
